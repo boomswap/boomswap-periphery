@@ -1,0 +1,7 @@
+build/
+node_modules/
+buildV1/
+contracts/test/ERC20Boom.sol
+contracts/test/ERC20Near.sol
+migrations/2_deploy_contract.js
+migrations/3_deploy_token_contract.js
